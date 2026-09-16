@@ -1,3 +1,7 @@
+# Parcours français
+
+Ce dépôt propose un parcours documentaire en français sur Aptos Core : architecture L1, Move, exécution, consensus, SDK et intégration de DApps. Voir [le sommaire](docs/fr/README.md).
+
 <a href="https://aptos.dev">
 	<img width="100%" src="./.assets/aptos_banner.png" alt="Aptos Banner" />
 </a>
